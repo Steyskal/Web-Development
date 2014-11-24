@@ -1,3 +1,12 @@
-Za pokrenuti projekt potrebna je instalacija XMAPP-a, pokretanje Apache i MySQL modula unutar njegove kontrole.
-Nakon instalacije i pokretanja potrebno je kopirati EDA direktorij unutar "xampp\htdocs" direktorija gdje je instaliran XAMPP. 
-Pristup rješenju je preko preglednika na adresi "localhost/EDA".
+EDA
+=====
+An example of using symmetric and asymmetric Encryption/Decryption algorithm libraries, also includes message digesting and a digital signature check.
+
+Credits
+=====
+Created by:
+* Toni Steyskal - toni.steyskal@gmail.com
+
+=====
+*Copyright Â© 2014 by Toni Steyskal <br\>
+All rights reserved.*
